@@ -1,6 +1,6 @@
 
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Bebas-Neue');
 
 // Variables
 @import 'variables';
@@ -29,4 +29,8 @@
 .marginauto {
   margin-right:auto;
   margin-left:auto;
+}
+
+@font-face {
+  font-family: 'bebas';
 }
