@@ -22,7 +22,7 @@
 
         {{--main picture--}}
         <div>
-            <img class="img-fluid" src="{{ asset('images/5.jpg') }}">
+            <img class="img-fluid height-50" src="{{ asset('images/5.jpg') }}">
         </div>
 
         <div class="row">
