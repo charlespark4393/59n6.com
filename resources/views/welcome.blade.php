@@ -79,11 +79,12 @@
         </div>
 
         <div class="row">
-            <div class="jumbotron col-12 mb-0">
-                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
-                    CONTACT US
-                </div>
+            <div class="jumbotron col-12 mb-0 bg-dark">
                 <div class="center-block jumbotron col-8 bg-primary display-4 bg-light text-center marginauto">
+
+                    <div class="title m-b-md display-3 text-center text-dark underlinecolor">
+                        CONTACT US
+                    </div>
                     1-914-760-9600
                 </div>
             </div>
