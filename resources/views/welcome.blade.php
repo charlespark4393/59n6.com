@@ -13,7 +13,7 @@
     <div class="container-fluid">
         <header>
             <nav class="navbar navbar-light bg-light">
-                <span class="navbar-brand mb-0 h1 title m-b-md display-2 text-center text-dark">
+                <span class="navbar-brand mb-0 h1 title m-b-md">
                 WILLIAMSBURG
                 North 6th Street
                 </span>
@@ -82,7 +82,7 @@
             <div class="jumbotron col-12 mb-0 bg-dark">
                 <div class="center-block jumbotron col-8 bg-primary display-4 bg-light text-center marginauto">
 
-                    <div class="title m-b-md display-3 text-center text-dark underlinecolor">
+                    <div class="title m-b-md display-4 text-center text-dark underlinecolor">
                         CONTACT US
                     </div>
                     1-914-760-9600
