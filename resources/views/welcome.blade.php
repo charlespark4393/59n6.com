@@ -21,12 +21,12 @@
         </header>
 
         {{--main picture--}}
-        <div class="carousel-item ">
-            <img class="d-block img-fluid" src="{{ asset('images/4.jpg') }}">
+        <div>
+            <img class="img-fluid" src="{{ asset('images/2.jpg') }}">
         </div>
 
         <div class="row">
-            <div class="jumbotron col-12 bg-info mb-0">
+            <div class="jumbotron col-12 mb-0">
                 <div class="title m-b-md display-3 text-center text-light underlinecolor">
                     RETAIL SPACE AVAILABLE
                     2020
@@ -42,7 +42,7 @@
         </div>
 
         <div class="row">
-            <div class="jumbotron col-12 bg-primary mb-0">
+            <div class="jumbotron col-12 mb-0">
                 <div class="title m-b-md display-3 text-center text-light underlinecolor">
                     Portfolio
                 </div>
@@ -79,7 +79,7 @@
         </div>
 
         <div class="row">
-            <div class="jumbotron col-12 bg-info mb-0">
+            <div class="jumbotron col-12 mb-0">
                 <div class="title m-b-md display-3 text-center text-light underlinecolor">
                     CONTACT US
                 </div>
