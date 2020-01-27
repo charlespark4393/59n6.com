@@ -11,24 +11,12 @@
     </head>
     <body>
     <div class="container-fluid">
-        <!-- header -->
         <header>
-            <!-- top area -->
-            <div class="top-nav">
-                <div class="wrapper">
-                    <div class="logo">
-                        WILLIAMSBURG
-                        North 6th Street
-                    </div>
-
-                    <div class="phone">
-                        <p>Call &#45; 008 009 172</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end top area -->
+            <nav class="navbar navbar-light bg-light">
+                <span class="navbar-brand mb-0 h1">WILLIAMSBURG
+                North 6th Street</span>
+            </nav>
         </header>
-        <!-- end of header-->
 
 
 
