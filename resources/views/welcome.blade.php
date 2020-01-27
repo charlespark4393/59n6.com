@@ -12,12 +12,15 @@
     <body>
     <div class="container-fluid">
         <header>
-            <nav class="navbar navbar-light bg-light">
-                <span class="navbar-brand mb-0 h1 title m-b-md">
-                WILLIAMSBURG
-                North 6th Street
-                </span>
-            </nav>
+            <div class="row">
+                <div class="jumbotron col-12 mb-0">
+
+                    <div class="title m-b-md display-3 text-center text-dark underlinecolor">
+                        WILLIAMSBURG
+                        North 6th Street
+                    </div>
+                </div>
+            </div>
         </header>
 
         {{--main picture--}}
