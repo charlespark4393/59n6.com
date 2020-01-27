@@ -13,7 +13,7 @@
     <div class="container-fluid">
         <header>
             <nav class="navbar navbar-light bg-light">
-                <span class="navbar-brand mb-0 h1">
+                <span class="navbar-brand mb-0 h1 title m-b-md display-2 text-center text-dark">
                 WILLIAMSBURG
                 North 6th Street
                 </span>
