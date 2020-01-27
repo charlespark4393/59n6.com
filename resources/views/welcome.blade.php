@@ -11,21 +11,24 @@
     </head>
     <body>
     <div class="container-fluid">
-        <div class="row bg-primary">
-            <div class=" col-12 bg-primary">
-                <div class="col-6 text-left text-light ml-5 pt-1 ">
-                    <h1>
-                        <strong>59N6.com</strong>
-                    </h1>
+        <!-- header -->
+        <header>
+            <!-- top area -->
+            <div class="top-nav">
+                <div class="wrapper">
+                    <div class="logo">
+                        WILLIAMSBURG
+                        North 6th Street
+                    </div>
+
+                    <div class="phone">
+                        <p>Call &#45; 008 009 172</p>
+                    </div>
                 </div>
             </div>
-            <div class="col-12 bg-info">
-                <div class="col-12 text-center text-light pt-1 display-4">
-                        <strong>WILLIAMSBURG</strong><br>
-                        <strong>North 6th Street</strong>
-                </div>
-            </div>
-        </div>
+            <!-- end top area -->
+        </header>
+        <!-- end of header-->
 
 
 
