@@ -22,7 +22,7 @@
 
         {{--main picture--}}
         <div>
-            <img class="img-fluid" src="{{ asset('images/2.jpg') }}">
+            <img class="img-fluid" src="{{ asset('images/5.jpg') }}">
         </div>
 
         <div class="row">
@@ -42,7 +42,7 @@
         </div>
 
         <div class="row">
-            <div class="jumbotron col-12 mb-0">
+            <div class="jumbotron col-12 mb-0 bg-light">
                 <div class="title m-b-md display-3 text-center text-dark underlinecolor">
                     Portfolio
                 </div>
@@ -83,7 +83,7 @@
                 <div class="title m-b-md display-3 text-center text-dark underlinecolor">
                     CONTACT US
                 </div>
-                <div class="center-block jumbotron col-8 bg-primary display-4 bg-dark text-center marginauto">
+                <div class="center-block jumbotron col-8 bg-primary display-4 bg-light text-center marginauto">
                     1-914-760-9600
                 </div>
             </div>
