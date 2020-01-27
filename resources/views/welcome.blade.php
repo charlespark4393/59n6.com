@@ -27,15 +27,15 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="title m-b-md display-3 text-center text-light underlinecolor">
+                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
                     RETAIL SPACE AVAILABLE
                     2020
                 </div>
 
-                    <h1 class="text-center text-light">
+                    <h1 class="text-center text-dark">
                         61N 6th Ground Level 4,200 sq.ft with 21.5 ft ceiling height/basement level 3,300 sq ft with 10 ft ceiling height, $300 per sq. ft.
                     </h1>
-                    <h1 class="text-center text-light">
+                    <h1 class="text-center text-dark">
                         63N 6th Ground level 3,300 sq.ft. with 20 sq ft ceiling height/basement level 3,300 sq. ft. with 10 ft ceiling height, 300$ per sq. ft.
                     </h1>
             </div>
@@ -43,7 +43,7 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="title m-b-md display-3 text-center text-light underlinecolor">
+                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
                     Portfolio
                 </div>
 
@@ -80,10 +80,10 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="title m-b-md display-3 text-center text-light underlinecolor">
+                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
                     CONTACT US
                 </div>
-                <div class="center-block jumbotron col-8 bg-primary display-4 bg-light text-center marginauto">
+                <div class="center-block jumbotron col-8 bg-primary display-4 bg-dark text-center marginauto">
                     1-914-760-9600
                 </div>
             </div>
