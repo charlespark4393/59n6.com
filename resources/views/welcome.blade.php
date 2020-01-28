@@ -35,11 +35,11 @@
                 </div>
 
                     <h1 class="text-center text-dark">
-                        <p>61N 6th Ground Level 4,200 sq.ft with 21.5 ft ceiling height / basement level 3,300 sq ft with 10 ft ceiling height,</p>
+                        <p>61N 6th Ground Level 4,200 sq.ft. with 21.5 ft ceiling height / basement level 3,300 sq. ft. with 10 ft ceiling height,</p>
                         <p>$300 per sq. ft.</p>
                     </h1>
                     <h1 class="text-center text-dark">
-                        <p>63N 6th Ground level 3,300 sq.ft. with 20 sq ft ceiling height / basement level 3,300 sq. ft. with 10 ft ceiling height, </p>
+                        <p>63N 6th Ground level 3,300 sq.ft. with 20 sq ft ceiling height / basement level 3,300 sq. ft. with 10 ft ceiling height,</p>
                         <p>300$ per sq. ft.</p>
 
 
