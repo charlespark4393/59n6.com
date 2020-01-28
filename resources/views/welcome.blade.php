@@ -16,7 +16,7 @@
                 <div class="jumbotron col-12 mb-0">
 
                     <div class="title m-b-md display-3 text-center text-dark underlinecolor">
-                        North 6th Street
+                        <h1>North 6th Street</h1>
                     </div>
                 </div>
             </div>
@@ -30,8 +30,8 @@
         <div class="row">
             <div class="jumbotron col-12 mb-0">
                 <div class="title m-b-md display-3 text-center text-dark underlinecolor">
-                    RETAIL FOR LEASE
-                    1-914-760-9600
+                    <h1>RETAIL FOR LEASE
+                        1-914-760-9600</h1>
                 </div>
 
                     <h1 class="text-center text-dark">
@@ -50,7 +50,7 @@
         <div class="row">
             <div class="jumbotron col-12 mb-0 bg-light">
                 <div class="title m-b-md display-3 text-center text-dark underlinecolor">
-                    Portfolio
+                    <h1>Portfolio</h1>
                 </div>
 
                 <div id="carousel2" class="carousel slide" data-ride="carousel">
