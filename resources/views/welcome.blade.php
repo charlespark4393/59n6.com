@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="jumbotron col-12 mb-0">
 
-                    <div class="title m-b-md display-3 text-center text-dark">
+                    <div class="display-3 text-center text-dark">
                         <h1 class="display-3">59N6.com</h1>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
+                <div class="display-3 text-center text-dark underlinecolor">
                     <h1 class="display-3">RETAIL FOR LEASE
                         <a href="tel:19147609600">1-914-760-9600</a></h1>
                 </div>
@@ -49,7 +49,7 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0 bg-light">
-                <div class="title m-b-md display-3 text-center text-dark underlinecolor">
+                <div class="display-3 text-center text-dark underlinecolor">
                     <h1 class="display-3">Portfolio</h1>
                 </div>
 
