@@ -16,7 +16,7 @@
                 <div class="jumbotron col-12 mb-0">
 
                     <div class="title m-b-md display-3 text-center text-dark underlinecolor">
-                        <h1 class="display-3">North 6th Street</h1>
+                        <h1 class="display-3">59N6.com</h1>
                     </div>
                 </div>
             </div>
