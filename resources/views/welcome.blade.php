@@ -29,9 +29,9 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="display-3 text-center text-dark underlinecolor">
+                <div class="display-3 text-center text-dark">
                     <h1 class="display-3">RETAIL FOR LEASE
-                        <a href="tel:19147609600">1-914-760-9600</a></h1>
+                        <a href="tel:19147609600">914-760-9600</a></h1>
                 </div>
 
                     <h1 class="text-center text-dark">
@@ -49,7 +49,7 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0 bg-light">
-                <div class="display-3 text-center text-dark underlinecolor">
+                <div class="display-3 text-center text-dark">
                     <h1 class="display-3">Portfolio</h1>
                 </div>
 
