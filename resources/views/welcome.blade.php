@@ -30,8 +30,8 @@
         <div class="row">
             <div class="jumbotron col-12 mb-0">
                 <div class="display-3 text-center text-dark">
-                    <span style="font-size:2.5rem;letter-spacing:.01px;">RETAIL FOR LEASE</span>
-                    <span style="font-size:2.5rem;letter-spacing:.02px;"><a href="tel:19147609600">914-760-9600</a></span>
+                    <span style="font-size:2.5rem;letter-spacing:-1px;">RETAIL FOR LEASE</span>
+                    <span style="font-size:2.5rem;letter-spacing:-1px;"><a href="tel:19147609600">914-760-9600</a></span>
                 </div>
 
                     <h1 class="text-center text-dark">
