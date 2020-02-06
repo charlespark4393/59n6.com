@@ -132,7 +132,7 @@ ul ol {
 }
 
 dt {
-  font-weight: 600;
+  font-weight: 450;
 }
 
 dd {
@@ -390,7 +390,7 @@ h6,
 .h5,
 .h6 {
   margin-bottom: 0.5rem;
-  font-weight: 600;
+  font-weight: 450;
   line-height: 1.2;
 }
 
@@ -443,7 +443,7 @@ h6,
 
 .display-3 {
   font-size: 3.8rem;
-  font-weight: 600;
+  font-weight: 450;
   line-height: 1.2;
 }
 
