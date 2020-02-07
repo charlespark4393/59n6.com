@@ -29,10 +29,10 @@
 
         <div class="row">
             <div class="jumbotron col-12 mb-0">
-                <div class="display-3 text-center text-dark">
-                    <h1 class="mb-0"><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7;">RETAIL</span></h1>
-                    <h1 class="mb-0"><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7;">FOR LEASE</span></h1>
-                    <h1><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7;"><a href="tel:19147609600">914-760-9600</a></span></h1>
+                <div class="display-3 text-center text-dark" style="font-size:2.0rem;letter-spacing:-2px;line-height:.7 !important;">
+                    <h1 class="mb-0"><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7 !important;">RETAIL</span></h1>
+                    <h1 class="mb-0"><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7; !important">FOR LEASE</span></h1>
+                    <h1><span style="font-size:2.0rem;letter-spacing:-2px;line-height:.7 !important;"><a href="tel:19147609600">914-760-9600</a></span></h1>
                 </div>
 
                     <h1 class="text-center text-dark">
